@@ -7,7 +7,10 @@ app "webpage" {
       use "docker" {
         image = "jagadeesh280/app"
         tag = "18"
-        
+        auth {
+      username = "jagadeeshbhavanam@gmail.com"
+      password = "jagadeesh280"
+    }   
       }
     }
   }
