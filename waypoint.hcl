@@ -6,7 +6,7 @@ app "webpage" {
     registry {
       use "docker" {
         image = "jagadeesh280/app"
-        tag = "18"
+        tag = "17"
         auth {
       username = "jagadeeshbhavanam@gmail.com"
       password = "jagadeesh280"
