@@ -7,7 +7,7 @@ job "frontend-logs" {
       config {
         image = "jagadeesh280/app:18"
 auth {
-      username = "jagadeeshbhavanam@gmail.com"
+      username = "jagadeesham@gmail.com"
       password = "jagadeesh280"
     }   
       }       
