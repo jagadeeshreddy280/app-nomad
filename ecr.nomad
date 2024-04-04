@@ -8,7 +8,7 @@ job "frontend-logs" {
         image = "jagadeesh280/app:18"
 auth {
       username = "jagadeesham@gmail.com"
-      password = "jagadeesh280"
+      password = "password of u github"
     }   
       }       
       resources {
